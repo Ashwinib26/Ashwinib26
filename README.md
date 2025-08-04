@@ -1,5 +1,5 @@
 <h1 align="center">Hello World 👋, I'm Ashwini Bisen !</h1>
-<h3 align="center"> BTech student, passionate about integrating AI/ML with full-stack solutions. Skilled in Python, SQL, TensorFlow, and the MERN stack, with project experience in predictive data modeling, Web Development, and AI-driven applications. Eager to explore Big Data and cloud technologies. </h3>
+<h3 align="center"> B.Tech student with a strong drive for blending intelligent systems with powerful web experiences. Passionate about building impactful solutions at the intersection of AI, data, and full-stack development. Continuously exploring new technologies and pushing boundaries to turn ideas into real-world innovations. </h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=ashwinib26&label=Profile%20views&color=0e75b6&style=flat" alt="ashwinib26" /> 
@@ -45,6 +45,9 @@
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
   <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
+  <a href="https://spark.apache.org/docs/latest/api/python/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="pyspark" width="40" height="40" />
+  </a>
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
